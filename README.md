@@ -35,4 +35,4 @@ O programa realiza:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/super-trunfo.git
+git clone https://github.com/WillianCiurlleti/super-trunfo.git
